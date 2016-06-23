@@ -1,20 +1,16 @@
 # Lets Talk OpenSource
-HKWD MeetUp Forum 
-
-![GitHub Logo](http://photos4.meetupstatic.com/photos/event/8/c/9/8/highres_255875992.jpeg)
-Format: ![Hong Kong Web Developer](http://www.meetup.com/HK-Web-Developers/)
 
 ## Schedule
-1. 6:00 doors open meet and greet
-2. 7:00 Rhys Turner (Host) Introduce the evenings topic and sponsors
-3. 7:10 Introduce the panel members
-4. 7:20 General questions for all panel members
-5. 7:30 A word from HK Open Source Conf organiser Calvin Tsang
-6. 7:40 General questions from audience
-7. 7:50 Questions for Vlad
-8. 8:00 Questions for Bambi
-9. 8:10 Open the panel for discussion and questions
-10. 8:30 close and post mingle
+6:00 doors open meet and greet
+7:00 Rhys Turner (Host) Introduce the evenings topic and sponsors
+7:10 Introduce the panel members
+7:20 General questions for all panel members
+7:30 A word from HK Open Source Conf organiser Calvin Tsang
+7:40 General questions from audience
+7:50 Questions for Vlad
+8:00 Questions for Bambi
+8:10 Open the panel for discussion and questions
+8:30 close and post mingle
 
 
 ## The OpenSource Movement
@@ -79,16 +75,17 @@ _’We believe that applying the open source philosophy to our patents will stre
 - Git is crucial to OpenSource projects and GitHub has played an important roll in the OpenSource community can you share some experiences and interactions you’ve encountered through GitHub?
 - What do you see the future of OpenSource being? Hybrid open and closed source? licences..
 - Can OpenSource work for non-code projects?
-- Can someone explain how Blockchain maintains both anonymity and security? 
 
 ## Bambi
 - Your background is in Microsoft Azures and given you have moved to using OpenSource tools what security concerns have you seen?
+(My background is not really about Microsoft Azure (Which for a big part is open sourced), it's Microsoft in general)
 - What are some client concerns regarding OpenSource such as licensing and privacy?
 - How has the DevOps space been influenced by OpenSource projects like Vagrant, Docker & Heroku?
 
 ### Valter
 - How has Unit testing been improved by the OpenSource community?
 - From your experience what does Google and Facebook have to gain from open sourcing their JavaScript Frameworks Angular and React?
+- 
 
 ### Vlad
 - Choosing a database: MySLQ is OpenSource but its not the most popular DataBase in the web sphere superseded by MongoDB & Postgres. How has OpenSource influenced the growth of smaller niche DataBases like CouchDB, Level, ReThinkDB etc. And can OpenSource damage existing OpenSource projects or is the competitiveness competition healthy? What are your thoughts on this? 
@@ -96,6 +93,8 @@ _’We believe that applying the open source philosophy to our patents will stre
 - How can enterprise solutions be realised using OpenSource tools and can you talk about real world aplications of this?
 - Can you talk about how the OpenSource movement has influence payment gateways like Stripe and Square Space?
 
+### Chris
+- Can you explain how Blockchain maintains both anonymity and security? 
 
 ### Rhys
 - What is the OpenSource hardware model?
